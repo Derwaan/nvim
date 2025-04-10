@@ -665,7 +665,6 @@ require('lazy').setup({
         pyright = {},
 
         -- JavaScript/TypeScript
-        ts_ls = {},
         eslint = {},
 
         -- Markdown
